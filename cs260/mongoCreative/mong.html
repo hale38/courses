@@ -1,0 +1,48 @@
+<html lang="en"><head>
+    <title>Mongo Bulletin Board</title>
+
+    <!-- Bootstrap core CSS -->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+
+    <link rel="stylesheet" href='mong.css'>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+    <script src="mong.js"></script>
+
+
+    <!-- Custom styles for this template -->
+  
+  </head>
+
+  <body ng-app="sticky" ng-controller="MainCtrl">
+
+
+    <main role="main" class="container">
+
+      <div class="col-xl-12">
+        <h1 id ='title'>Bulletin Board</h1>
+      <form ng-submit="addNote()" style = "margin-top30px;">
+        <input type="text" id="formContent"></input>
+        <button type="submit">Add Comment</button>
+      </form>
+
+      <div id='Notes'></div>
+        <div id='note' ondrag='onDrag()' onrelease='onRelease(event)' draggable="true">"Drag Me"</div>
+        <p draggable="true" ondragstart="onDrag(event)">Drag me!</p>
+      </div>
+
+
+
+
+    </main><!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+  
+
+<s/body>
+
+</html>

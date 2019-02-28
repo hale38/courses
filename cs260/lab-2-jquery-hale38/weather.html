@@ -1,0 +1,56 @@
+<html>
+
+
+<head>
+<title>City Finder</title>
+<script
+  src="http://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous">
+</script>
+
+<script src="weatherScripts.js"></script>
+<link rel="stylesheet" type="text/css" href="weather.css">
+
+</head>
+
+<body>
+
+<div id = "weatherSection">
+  <div id ="weatherCitySearch">
+    <h1>Weather Search</h1>
+    <form>
+    Enter A Utah City: <input type="text" id="cityField" value=""><br>
+    Suggestion: <span id="txtHint">Empty</span>
+    <input id="weatherButton" type="submit" value="Submit">
+    </form>
+    <p>City</p>
+    <textarea id="displayCity">No City</textarea>
+  </div>
+
+  <div id = weatherResultsSection>
+    <p>Current Weather</p>
+    <div id="weather">No weather</div>
+  </div>
+
+</div>
+
+
+<div id="stackSection">
+<h1>Stack Search</h1>
+<form id="searchStack"><br>
+  Enter a search for Stack : <input type="text" id="stackField" value=""><br>
+
+  <input id ="searchButton" type = "submit" value="Submit">
+</form>
+
+<p> Results </p>
+<div id ='searchResults'> 
+</div>
+
+
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,51 @@
+body{
+	background-color: darkgrey;
+}
+
+#weatherSection{
+	position: relative;
+	background-color: lightblue;
+	border-style: double;
+	height: 30%;
+	width:100%;
+	display: table;
+}
+
+
+#weatherCitySearch{
+	width:50%;
+	float:left;
+	padding: 1%;
+}
+
+#weatherResultsSection{
+	padding: 1%;
+	
+	padding-left: 45%;
+	padding-top: 3%;
+	width:40%;
+	
+}
+
+
+
+#searchList{
+	list-style: none;
+}
+
+#searchResults{
+	text-align: left;
+
+}
+
+
+
+#stackSection{
+	position: relative;
+	border-style: double;
+	padding: 1%;
+	height: 70%;
+	width:98%;
+	display:table;
+	background-color: lightgrey;
+}
