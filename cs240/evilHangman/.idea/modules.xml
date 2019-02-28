@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/evilHangman.iml" filepath="$PROJECT_DIR$/.idea/modules/evilHangman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/evilHangman.iml" filepath="$PROJECT_DIR$/.idea/modules/evilHangman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/evilhang/evilhang.iml" filepath="$PROJECT_DIR$/.idea/modules/evilhang/evilhang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/evilhang/evilhang.iml" filepath="$PROJECT_DIR$/.idea/modules/evilhang/evilhang.iml" />
+    </modules>
+  </component>
+</project>
