@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>reView</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+    <script src="reView.js"></script>
+    <link rel="stylesheet" type="text/css" href="reView.css">
+</head>
+<body>
+
+<div id = 'center' ng-app ="reView" ng-controller='ctrl'>
+	
+	<div class="title">
+		<h1>reView</h1>
+<button type="button" class = 'newAssetbutton' ng.click = 'newAsset()'>Submit New Asset</button>
+
+	
+	</div>
+
+	<div class = 'assets'> 
+
+  
+	     <div class ="assetlist" ng-repeat = "x in assetList">
+
+	               	
+	    <button type = 'button' class='assetButton' ng-click='showAsset($event)' value={{x.title}}> {{x.title}}</button>
+	                
+		</div>
+
+
+	</div>
+
+		<div class = 'submit' ng-show = 'showNewAssetForm'>
+
+	   <form ng-submit ="assetAdd()" ng-show= ''>
+                        <input type="text" ng-model="title" placeholder="Title">
+                        <input type="text" ng-model="description" placeholder="Description">
+                        <input type="text" ng-model="image" placeholder="Image">
+                        <input type="submit" value="Add New">
+     	</form>
+
+	</div>
+
+	<div class= 'viewer' >
+	
+		<div class="info" ng-show = 'showInfo'>
+				<div class =imageView >
+			<img ng-bind = 'imageActual' ng-src="{{imageSource}}" class=
+			'imageWindow' ng-show =showImage</img>
+		</div>
+			<div class ='infoText'>
+				<h3 ng-bind='assetTitle'></h3>
+				<p ng-bind='assetDescription'></p>
+				<p ng-bind='comments'></p>
+			</div>
+
+			<div class ='assetActions' >
+				<p ng-bind ='addComment'></p>
+				<button type = 'button' class = 'approvalButton' ng-click = 'approveAsset($event)'>Approve</button>
+
+				<button type = 'button' class = 'commentButton' ng-click = 'commentAsset($event)'>Comment</button>
+				
+			</div>
+
+		</div>
+	</div>
+
+	
+</div>
+
+</body>
+</html>
