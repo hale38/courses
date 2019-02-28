@@ -1,0 +1,13 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'junit:junit:4.12'
+    implementation project(':gson-2.8.0')
+    implementation files('/Users/Riley/familyMapAndroidServer/gson-2.8.0/gson-2.8.0.jar')
+    implementation project(':shared')
+    implementation project(':sqlite-jdbc-3.7.2')
+}
+
+sourceCompatibility = "1.7"
+targetCompatibility = "1.7"

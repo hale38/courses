@@ -1,0 +1,4 @@
+#Fri Apr 20 05:57:17 MDT 2018
+base.0=/Users/Riley/familyMapAndroidServer/Family Map/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,309 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:2:1-92:12
+INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:2:1-92:12
+INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:2:1-92:12
+INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:2:1-92:12
+MERGED from [com.android.support:design:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/05fec59c9f5cfc2fdee81b4f6a149115/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/d4d145440e26fc16140524820d8e2f56/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1273b2a2f54cd8964e861b8abf1cd5a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Riley/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d806090717e063e9b2336794c26ce367/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/5a5decc3960a275b85977b5f3720d839/AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1bac1cdeeb0a9ebaf995fe86a58c8e5c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/29288ad687c9154efd47b1f3ef7452fc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fbd0e66cfb676e027d35ffc099cc996f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/415461d857d603de9304f0e6ff668b11/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3e747e8075f4d8307bd04a6be9bfc17a/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/b76cfca0c2006dec8536a83c34465c9c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/84627774768bed1a8df4ec37decfd7f1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/003396cf9dd81b4a575308f482f4704a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/dc07646f26de4e1b44e339cefc2c367d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/557ecf47136a4d64497fad710d734945/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2236c4a88a1d201a4a1b8f8f8e3f0e18/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1a28b797ffdfce32bea08995c46cf8ae/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0e1fdd9f8a587086d3490fff984587ac/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a39041f69c3eb36b01de8b9945e6e42d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.0.aar/a73df8a63d5785f1b8e9289ee4d39029/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/51b42dbcb9fe6732a7415ec50ba48eeb/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/2fa4d3be004b488849bed32b3a73c800/AndroidManifest.xml:2:1-8:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/699141de0c7ce0fd24c7c62a8740f103/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/792c15e05b60ea814c805ff5bcd9b8e5/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:2:1-92:12
+INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:2:1-92:12
+INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:3:11-51
+		INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml
+		INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:2:1-92:12
+		INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:2:1-92:12
+		INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/5a5decc3960a275b85977b5f3720d839/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/5a5decc3960a275b85977b5f3720d839/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:12:22-76
+application
+ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:14:5-90:19
+MERGED from [com.android.support:design:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/05fec59c9f5cfc2fdee81b4f6a149115/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/05fec59c9f5cfc2fdee81b4f6a149115/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/d4d145440e26fc16140524820d8e2f56/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/d4d145440e26fc16140524820d8e2f56/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1273b2a2f54cd8964e861b8abf1cd5a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1273b2a2f54cd8964e861b8abf1cd5a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Riley/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d806090717e063e9b2336794c26ce367/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Riley/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d806090717e063e9b2336794c26ce367/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/5a5decc3960a275b85977b5f3720d839/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/5a5decc3960a275b85977b5f3720d839/AndroidManifest.xml:30:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1bac1cdeeb0a9ebaf995fe86a58c8e5c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1bac1cdeeb0a9ebaf995fe86a58c8e5c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/29288ad687c9154efd47b1f3ef7452fc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/29288ad687c9154efd47b1f3ef7452fc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fbd0e66cfb676e027d35ffc099cc996f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fbd0e66cfb676e027d35ffc099cc996f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/415461d857d603de9304f0e6ff668b11/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/415461d857d603de9304f0e6ff668b11/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3e747e8075f4d8307bd04a6be9bfc17a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3e747e8075f4d8307bd04a6be9bfc17a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/b76cfca0c2006dec8536a83c34465c9c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/b76cfca0c2006dec8536a83c34465c9c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/84627774768bed1a8df4ec37decfd7f1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/84627774768bed1a8df4ec37decfd7f1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/003396cf9dd81b4a575308f482f4704a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/003396cf9dd81b4a575308f482f4704a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/dc07646f26de4e1b44e339cefc2c367d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/dc07646f26de4e1b44e339cefc2c367d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/557ecf47136a4d64497fad710d734945/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/557ecf47136a4d64497fad710d734945/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2236c4a88a1d201a4a1b8f8f8e3f0e18/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2236c4a88a1d201a4a1b8f8f8e3f0e18/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1a28b797ffdfce32bea08995c46cf8ae/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1a28b797ffdfce32bea08995c46cf8ae/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0e1fdd9f8a587086d3490fff984587ac/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0e1fdd9f8a587086d3490fff984587ac/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a39041f69c3eb36b01de8b9945e6e42d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a39041f69c3eb36b01de8b9945e6e42d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.0.aar/a73df8a63d5785f1b8e9289ee4d39029/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.0.aar/a73df8a63d5785f1b8e9289ee4d39029/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/51b42dbcb9fe6732a7415ec50ba48eeb/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/51b42dbcb9fe6732a7415ec50ba48eeb/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/2fa4d3be004b488849bed32b3a73c800/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/2fa4d3be004b488849bed32b3a73c800/AndroidManifest.xml:5:5-6:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/699141de0c7ce0fd24c7c62a8740f103/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/699141de0c7ce0fd24c7c62a8740f103/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/792c15e05b60ea814c805ff5bcd9b8e5/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/792c15e05b60ea814c805ff5bcd9b8e5/AndroidManifest.xml:5:5-6:19
+	android:supportsRtl
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:20:9-40
+activity#com.bignerdranch.android.fmapp.MainActivity
+ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:21:9-32:20
+	android:label
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:23:13-45
+	android:launchMode
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:25:13-44
+	android:theme
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:22:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:30:27-74
+activity#com.bignerdranch.android.fmapp.SettingsActivity
+ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:35:9-40:20
+	android:label
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:37:13-45
+	android:theme
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:36:13-45
+activity#com.bignerdranch.android.fmapp.SearchActivity
+ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:42:9-47:20
+	android:label
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:44:13-45
+	android:theme
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:43:13-43
+activity#com.bignerdranch.android.fmapp.PersonActivity
+ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:49:9-56:20
+	android:parentActivityName
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:52:13-55
+	android:label
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:51:13-45
+	android:name
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:50:13-43
+activity#com.bignerdranch.android.fmapp.FilterActivity
+ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:58:9-63:20
+	android:label
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:60:13-45
+	android:theme
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:61:13-56
+	android:name
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:59:13-43
+activity#com.bignerdranch.android.fmapp.EventActivity
+ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:69:9-73:20
+	android:parentActivityName
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:72:13-55
+	android:label
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:71:13-45
+	android:name
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:70:13-42
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:86:9-88:54
+	android:value
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:88:13-52
+	android:name
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:87:13-58
+uses-sdk
+INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml
+INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/05fec59c9f5cfc2fdee81b4f6a149115/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/05fec59c9f5cfc2fdee81b4f6a149115/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/d4d145440e26fc16140524820d8e2f56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/d4d145440e26fc16140524820d8e2f56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1273b2a2f54cd8964e861b8abf1cd5a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1273b2a2f54cd8964e861b8abf1cd5a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Riley/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d806090717e063e9b2336794c26ce367/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Riley/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d806090717e063e9b2336794c26ce367/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/5a5decc3960a275b85977b5f3720d839/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/5a5decc3960a275b85977b5f3720d839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1bac1cdeeb0a9ebaf995fe86a58c8e5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1bac1cdeeb0a9ebaf995fe86a58c8e5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/29288ad687c9154efd47b1f3ef7452fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/29288ad687c9154efd47b1f3ef7452fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fbd0e66cfb676e027d35ffc099cc996f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fbd0e66cfb676e027d35ffc099cc996f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/415461d857d603de9304f0e6ff668b11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/415461d857d603de9304f0e6ff668b11/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3e747e8075f4d8307bd04a6be9bfc17a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3e747e8075f4d8307bd04a6be9bfc17a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/b76cfca0c2006dec8536a83c34465c9c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/b76cfca0c2006dec8536a83c34465c9c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/84627774768bed1a8df4ec37decfd7f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/84627774768bed1a8df4ec37decfd7f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/003396cf9dd81b4a575308f482f4704a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/003396cf9dd81b4a575308f482f4704a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/dc07646f26de4e1b44e339cefc2c367d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/dc07646f26de4e1b44e339cefc2c367d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/557ecf47136a4d64497fad710d734945/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/557ecf47136a4d64497fad710d734945/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2236c4a88a1d201a4a1b8f8f8e3f0e18/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2236c4a88a1d201a4a1b8f8f8e3f0e18/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1a28b797ffdfce32bea08995c46cf8ae/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1a28b797ffdfce32bea08995c46cf8ae/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0e1fdd9f8a587086d3490fff984587ac/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0e1fdd9f8a587086d3490fff984587ac/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a39041f69c3eb36b01de8b9945e6e42d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a39041f69c3eb36b01de8b9945e6e42d/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/699141de0c7ce0fd24c7c62a8740f103/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/699141de0c7ce0fd24c7c62a8740f103/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml
+INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/05fec59c9f5cfc2fdee81b4f6a149115/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml
+		INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml
+		ADDED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml
+		INJECTED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/05fec59c9f5cfc2fdee81b4f6a149115/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/d4d145440e26fc16140524820d8e2f56/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/d4d145440e26fc16140524820d8e2f56/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1273b2a2f54cd8964e861b8abf1cd5a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1273b2a2f54cd8964e861b8abf1cd5a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1bac1cdeeb0a9ebaf995fe86a58c8e5c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1bac1cdeeb0a9ebaf995fe86a58c8e5c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/29288ad687c9154efd47b1f3ef7452fc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/29288ad687c9154efd47b1f3ef7452fc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fbd0e66cfb676e027d35ffc099cc996f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fbd0e66cfb676e027d35ffc099cc996f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/415461d857d603de9304f0e6ff668b11/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/415461d857d603de9304f0e6ff668b11/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/003396cf9dd81b4a575308f482f4704a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/003396cf9dd81b4a575308f482f4704a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/dc07646f26de4e1b44e339cefc2c367d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/dc07646f26de4e1b44e339cefc2c367d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/557ecf47136a4d64497fad710d734945/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/557ecf47136a4d64497fad710d734945/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2236c4a88a1d201a4a1b8f8f8e3f0e18/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2236c4a88a1d201a4a1b8f8f8e3f0e18/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1a28b797ffdfce32bea08995c46cf8ae/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1a28b797ffdfce32bea08995c46cf8ae/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0e1fdd9f8a587086d3490fff984587ac/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0e1fdd9f8a587086d3490fff984587ac/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a39041f69c3eb36b01de8b9945e6e42d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a39041f69c3eb36b01de8b9945e6e42d/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/05fec59c9f5cfc2fdee81b4f6a149115/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/05fec59c9f5cfc2fdee81b4f6a149115/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/5a5decc3960a275b85977b5f3720d839/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/5a5decc3960a275b85977b5f3720d839/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/5a5decc3960a275b85977b5f3720d839/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/5a5decc3960a275b85977b5f3720d839/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/5a5decc3960a275b85977b5f3720d839/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3e747e8075f4d8307bd04a6be9bfc17a/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3e747e8075f4d8307bd04a6be9bfc17a/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3e747e8075f4d8307bd04a6be9bfc17a/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3e747e8075f4d8307bd04a6be9bfc17a/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/84627774768bed1a8df4ec37decfd7f1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/84627774768bed1a8df4ec37decfd7f1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/84627774768bed1a8df4ec37decfd7f1/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:2:1-92:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:2:1-92:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/Riley/familyMapAndroidServer/Family Map/src/main/AndroidManifest.xml:2:1-92:12 reason: com.google.android.gms.license requested WRITE_EXTERNAL_STORAGE
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/699141de0c7ce0fd24c7c62a8740f103/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/699141de0c7ce0fd24c7c62a8740f103/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Riley/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/699141de0c7ce0fd24c7c62a8740f103/AndroidManifest.xml:26:13-58
